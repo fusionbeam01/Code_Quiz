@@ -1,3 +1,4 @@
+// REMINDER CHAGE THE QUESIONS FROM PLACE HOLDER BEFORE SUBMISSION OF CODE
 var questions = [
     {
         title: "Place holder text replace later with question",
@@ -35,4 +36,6 @@ var questions = [
         answer: "choice 1",
     }
 
-]
+];
+
+console.log(questions.choice[0]);
