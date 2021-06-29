@@ -1,39 +1,34 @@
 // REMINDER CHAGE THE QUESIONS FROM PLACE HOLDER BEFORE SUBMISSION OF CODE
 var questions = [
     {
-        title: "Which of the following is a tratior legion",
-        choice: ["Blood Angles", "I","choice 3","choice 4"],
-        answer: "choice 1",
+        title: "Which of the following is a tratior legion?",
+        choice: ["Blood Angles", "Word Bearers","Iron Hand","Dark Angles"],
+        answer: "Word Bearers",
     },
     {
-        title: "Do I like JavaScript",
-        choice: ["Hell Yeah", "My porridge is too cold","It's great","Yes I do"],
-        answer: "Hell Yeah",
+        title: "Which Space Marine chapter has horrible luck?",
+        choice: ["Lamenters", "Fire Hawks","Black Dragons","Minotaurs"],
+        answer: "Lamenters",
     },
     {
-        title: "Place holder text replace later with question",
-        choice: ["choice 1", "choice 2","choice 3","choice 4"],
-        answer: "choice 1",  
+        title: "Which Space Marine chapter defends the Imperial Palace?",
+        choice: ["Iron Warriors", "Imperial Fist","Black Templars","Raven Gaurd"],
+        answer: "Imperial Fist",
     },
     {
-        title: "Place holder text replace later with question",
-        choice: ["choice 1", "choice 2","choice 3","choice 4"],
-        answer: "choice 1",
+        title: "What is the standerd weapon of the Space Marine?",
+        choice: ["Bolter", "Plasma Gun","Stubber","Lasgun"],
+        answer: "Bolter",
     },
     {
-        title: "Place holder text replace later with question",
-        choice: ["choice 1", "choice 2","choice 3","choice 4"],
-        answer: "choice 1",
+        title: "Which Chapter was used in the Dawn Of War games?",
+        choice: ["Space Wolves", "White Scars","Blood Ravens","Ultra Marines"],
+        answer: "Blood Ravens",
     },
     {
-        title: "Place holder text replace later with question",
-        choice: ["choice 1", "choice 2","choice 3","choice 4"],
-        answer: "choice 1",
-    },
-    {
-        title: "Place holder text replace later with question",
-        choice: ["choice 1", "choice 2","choice 3","choice 4"],
-        answer: "choice 1",
+        title: "Which Chapter is Not Codex compiet",
+        choice: ["Blood Ravens", "Dark Angles","Black Templars","Ultra Marines"],
+        answer: "Black Templars",
     }
 
 ];
